@@ -19,20 +19,20 @@ I'm a passionate Python developer with a knack for data extraction, web scraping
 
 ---
 
-## 🌟 Fun Facts
-
-- 🎮 Love playing video games
-- 🏐 Volleyball & 🏏 Cricket enthusiast
-- 🏃 Enjoy running whenever I get the chance
-
----
-
 ## 🤝 Connect & Collaborate
 
 - 📫 Email: [Reach out via LinkedIn!](https://www.linkedin.com/in/kevalsakhiya/)  
 - 📝 Open a [GitHub Issue](https://github.com/kevalsakhiya) for project collaboration
 - ✍️ Read my articles on [Medium](https://medium.com/@kevalsakhiya)
 - 🌐 Visit my [portfolio website](https://kevalsakhiya.github.io/portfolio-website/index.html)
+
+---
+
+## 🌟 Fun Facts
+
+- 🎮 Love playing video games
+- 🏐 Volleyball & 🏏 Cricket enthusiast
+- 🏃 Enjoy running whenever I get the chance
 
 ---
 
