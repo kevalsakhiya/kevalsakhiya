@@ -1,31 +1,73 @@
-# Keval Sakhiya
+# Hi, I'm Keval Sakhiya 👋
 
-**Python Developer · Web Scraping & Data Extraction Engineer**
+**Web Scraping Specialist & Python Developer** — I build distributed crawlers that pull clean data from sites that really don't want to be crawled.
 
-Building production-grade crawlers, data pipelines, and backend services with Python.
+7+ years extracting, structuring, and delivering web data at scale for US companies across real estate, finance, e-commerce, and sports. I live in the hard part of scraping: getting through the defenses, then turning a messy crawl into reliable, monitored, production data.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalsakhiya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=flat&logo=githubpages&logoColor=white)](https://kevalsakhiya.github.io/portfolio-website/index.html)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kevalsakhiya)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/)
+📍 Anand, Gujarat, India · 🛠️ Open to contract & freelance work · 🐍 [scrapy/scrapy](https://github.com/scrapy/scrapy) contributor
 
 ---
 
-## About
+### What I do
 
-I'm a Python developer with 8+ years of experience designing and operating production web crawling and data extraction systems. My focus is on the Scrapy ecosystem — building reliable spiders, item pipelines, and middlewares — along with the anti-bot, proxy, and browser-automation work that keeps long-running crawls healthy at scale.
+- **Beat the blockers.** Rotating residential/datacenter proxies, TLS/JA3 & browser fingerprinting, CAPTCHA solving, and stealth headless automation to crawl sites that actively fight back.
+- **Scale it.** Redis-backed distributed crawling with async, multithreading, and tuned AutoThrottle — **500k+ records/day** at peak, **40+ scrapers** in production, **1M+ posts/day** pipelines.
+- **Make the data trustworthy.** ETL design, data-quality validation, monitoring (Spidermon), and delivery — so what lands downstream is clean and dependable.
 
-Alongside scraping, I build backend services in FastAPI and Django REST Framework to expose extracted data to downstream applications, and design ETL pipelines that turn raw scraped data into clean, queryable datasets.
+---
 
-## What I Work On
+### Experience
 
-- Designing and maintaining **Scrapy** spiders for e-commerce, real estate, B2B directories, and government data sources
-- Solving **anti-bot challenges** — rotating proxies, CAPTCHA solving, TLS/browser fingerprinting, headless automation
-- Building **REST APIs** with FastAPI and Django REST Framework on top of crawled datasets
-- **ETL pipelines** with Pandas, PostgreSQL, MongoDB, and AWS (S3, Glue)
-- **Monitoring** scrapers in production with Spidermon and custom alerting
+- **Turing** — Web Scraping Specialist & Data Engineer · *Jul 2023 – Feb 2026 · Remote (USA)*
+- **Heirlift Estate** — Web Scraping Specialist · *Mar 2021 – May 2023 · Remote (USA)*
+- **Upwork** — Top-Rated freelance Python developer (web scraping) · *2019 – 2021*
 
-## Tech Stack
+---
+
+### Tech stack
+
+**Scraping & crawling**
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat)
+![lxml / parsel](https://img.shields.io/badge/lxml%20%2F%20parsel-2C2255?style=flat)
+![Spidermon](https://img.shields.io/badge/Spidermon-60A839?style=flat)
+
+**Distributed & async**
+![Redis](https://img.shields.io/badge/Redis%20distributed-DC382D?style=flat&logo=redis&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat&logo=python&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-3776AB?style=flat&logo=python&logoColor=white)
+
+**Anti-bot & stealth**
+![Proxy rotation](https://img.shields.io/badge/Proxy%20rotation-444444?style=flat)
+![TLS/JA3 fingerprinting](https://img.shields.io/badge/TLS%20%2F%20JA3%20fingerprinting-444444?style=flat)
+![CAPTCHA solving](https://img.shields.io/badge/CAPTCHA%20solving-444444?style=flat)
+
+**Data & ETL**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Orchestration & deploy**
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Scrapyd](https://img.shields.io/badge/Scrapyd-60A839?style=flat)
+![Gerapy](https://img.shields.io/badge/Gerapy-60A839?style=flat)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Cloud & APIs**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=flat&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,67 +75,26 @@ Alongside scraping, I build backend services in FastAPI and Django REST Framewor
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-**Web Scraping & Crawling**
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat)
-![Requests](https://img.shields.io/badge/Requests-20232A?style=flat)
+---
 
-**Backend Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-A30000?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+### Featured
 
-**Data & Databases**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## Featured Projects
-
-🕷️ **[real-estate_scrapers](https://github.com/kevalsakhiya/real-estate_scrapers)** — Scrapy-based crawler collecting property listing data from Canadian real estate sources.
-
-🏠 **[property-scout](https://github.com/kevalsakhiya/property-scout)** — Real estate recommendation system combining property data analysis with ML to help users find well-matched listings.
-
-🌐 **[django-projects](https://github.com/kevalsakhiya/django-projects)** — Hands-on Django work covering web apps, REST APIs, authentication, and project structure based on *Django 4 By Example*.
-
-🤖 **[chat-bots](https://github.com/kevalsakhiya/chat-bots)** — Chatbot implementations using the Gemini and OpenAI APIs for response generation.
-
-## Open Source
-
-I contribute back to the Python ecosystem when I can — including a merged contribution to a major open-source web scraping framework I use daily. I believe in giving back to the tools that make production work possible.
-
-## GitHub Stats
-
-<a href="https://github.com/kevalsakhiya">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kevalsakhiya&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Keval's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevalsakhiya&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</a>
-
-## Also Exploring
-
-Beyond data engineering, I work on machine learning projects to keep my skills broad — emotion detection with CNNs, content-based recommender systems, and LLM-powered tooling. These often live at the intersection of "data you scraped" and "what you can do with it."
-
-## Get in Touch
-
-📍 Based in Gujarat, India · open to remote opportunities and freelance collaboration
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevalsakhiya/)
-- 🌐 [Portfolio](https://kevalsakhiya.github.io/portfolio-website/index.html)
-- ✍️ [Medium](https://medium.com/@kevalsakhiya)
-- 🐦 [X / Twitter](https://twitter.com/kevalsakhiya)
+- 🌐 **[Portfolio](https://kevalsakhiya.github.io)** — selected scraping & data-engineering projects, end to end.
+- ✍️ **[Blog](https://kevalsakhiya.github.io/blog)** — field notes & war stories from real-world scraping at scale.
 
 ---
 
-<sub>If you're building something interesting with Python, scraping, or data pipelines — I'd love to hear about it.</sub>
+### Let's talk
+
+I take on contract and freelance scraping/data-engineering work. If a site is giving you trouble, I'd love to hear about it.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalsakhiya)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kevalsakhiya)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevalsakhiya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white)](https://kevalsakhiya.github.io)
+
+---
+
+<sub>📊 <a href="https://github.com/kevalsakhiya">GitHub stats</a></sub>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=kevalsakhiya&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Keval's GitHub stats" height="160" />
