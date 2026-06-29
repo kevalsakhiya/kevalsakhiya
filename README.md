@@ -79,6 +79,8 @@
 
 ### Featured
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://kevalsakhiya.github.io) &nbsp; [![Blog](https://img.shields.io/badge/Blog-Read%20Notes-FF8800?style=for-the-badge&logo=hashnode&logoColor=white)](https://kevalsakhiya.github.io/blog)
+
 - 🌐 **[Portfolio](https://kevalsakhiya.github.io)** — selected scraping & data-engineering projects, end to end.
 - ✍️ **[Blog](https://kevalsakhiya.github.io/blog)** — field notes & war stories from real-world scraping at scale.
 
@@ -88,13 +90,7 @@
 
 I take on contract and freelance scraping/data-engineering work. If a site is giving you trouble, I'd love to hear about it.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white)](https://kevalsakhiya.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalsakhiya)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kevalsakhiya)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevalsakhiya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white)](https://kevalsakhiya.github.io)
-
----
-
-<sub>📊 <a href="https://github.com/kevalsakhiya">GitHub stats</a></sub>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=kevalsakhiya&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Keval's GitHub stats" height="160" />
